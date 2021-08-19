@@ -1,4 +1,8 @@
 package com.example.androidmodule3lesson3task1audioplayer
+/*
+ДЗ. Задание 1. Простое
+Повторить программу с воспроизведением аудио из урока.
+ */
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
