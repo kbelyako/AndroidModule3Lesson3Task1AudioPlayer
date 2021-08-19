@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidModule3Lesson3Task1AudioPlayer</string>
+    <string name="start">start</string>
+    <string name="stop">stop</string>
+</resources>
